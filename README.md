@@ -50,7 +50,7 @@ Tech Stack
  Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/keshab-jewellery-house.git
+   git clone https://github.com/shrabaniadhikari03/Jewellery-website.git
 
 2. Open the project folder:
    cd keshab-jewellery-house
